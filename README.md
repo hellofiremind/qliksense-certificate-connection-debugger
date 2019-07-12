@@ -1,0 +1,1 @@
+# qliksense-certificate-connection-debugger
